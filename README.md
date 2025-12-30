@@ -61,12 +61,13 @@ cd backend
 npm install
 ```
 ## Required Environment Variables:
-
+```Text
 MONGO_URI
 JWT_SECRET
 CLOUDINARY_CLOUD_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
+```
 
 3. Frontend Configuration
 Navigate to the frontend folder and install dependencies.
